@@ -52,6 +52,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/CorrevitVelAngle.msg"
   "msg/CorrevitPitchRoll.msg"
   "msg/DoubleStamped.msg"
+  "msg/ResidualSample.msg"
   "msg/FactorResidual.msg"
   "msg/FactorResiduals.msg"
   "msg/SensorProcessingReport.msg"
