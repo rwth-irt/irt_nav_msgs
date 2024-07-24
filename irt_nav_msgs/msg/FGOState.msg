@@ -5,17 +5,11 @@ geometry_msgs/Twist                 acc
 float64[]                           pose_var
 float64[]                           vel_var
 float64[]                           acc_var
-float64                             cog
+float64                             heading
 float64[]                           imu_bias
 float64[]                           imu_bias_var
 float64[]                           cbd
 float64[]                           cbd_var
 uint32[]                            amb
 float64[]                           amb_var
-float64[3]                          llh_ant_main
-float64[3]                          vel_ned_ant_main
-float64[3]                          rpy_ant_main
-float64[3]                          llh_ant_aux
-float64[3]                          vel_ned_ant_aux
-float64[3]                          rpy_ant_aux
 
